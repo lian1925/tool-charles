@@ -7,6 +7,7 @@ charles，业界称为青花瓷，是 Mac 系统上最好用的一款用于 HTTP
 ## 下载
 
 1、下载地址与破解说明：https://xclient.info/s/charles.html#versions
+
 解压开有一个 keygen.jar，使用命令：java -jar keygen.jar 运行会出现注册所需信息。
 
 2、官方下载：http://www.charlesproxy.com/download
@@ -19,12 +20,12 @@ charles，业界称为青花瓷，是 Mac 系统上最好用的一款用于 HTTP
 点击 顶部工具栏 Proxy-> Proxy settings ->proxies
 勾选 enable transparent http proxying
 
-效果图：
+效果图：  
 ![](/images/http-setting.png)
 
 ### 允许解析 https 请求
 
-方法：
+方法：  
 点击 顶部工具栏 Proxy-> SSL Proxying Settings->SSL Proxying
 勾选 Enable SSL Proxying
 
