@@ -75,6 +75,6 @@ Note that on iOS 10 and later you must then go into Settings > General > About >
 
 ## 效果图
 
-在手机浏览器，请求某个网站，如：www.liangyl.com，请求  抓取如下：
+在手机浏览器，请求某个网站，如：www.liangyl.com ，请求抓取如下：
 
 ![](/images/charles-output.png)
