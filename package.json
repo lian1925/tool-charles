@@ -1,0 +1,12 @@
+{
+  "name": "tool-charles",
+  "version": "1.0.0",
+  "description": "提供简单的 react 工程框架，包括 react, webpack, babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
